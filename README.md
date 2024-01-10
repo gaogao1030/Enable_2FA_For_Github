@@ -4,10 +4,9 @@
 
     ```
     mv .env.example .env
-
     ```
 
-    Replace Github 2FA secret in .env
+    Replace github 2FA secret in .env
 
     ```
     pip install -r requirements.txt
